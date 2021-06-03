@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning iOS, Swift
 
-[메인 블로그][https://sonmo.tistory.com/]
+[메인 블로그](https://sonmo.tistory.com/)
 
 <!--
 **SonMoHam/SonMoHam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
