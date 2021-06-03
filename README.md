@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning iOS, Swift
+🌱 iOS, Swift
 
 [티스토리](https://sonmo.tistory.com/) - 메인 블로그
 
