@@ -2,8 +2,8 @@
 
 🌱 iOS, Swift 
 
-## 
-MVVM, RxSwift, RestAPI
+## MVVM, RxSwift, RestAPI
+
 
 ## 예정
 RxFlow, ReactorKit, DI, IOC, Coordinator, POP, CleanArchitecture
