@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-🌱 iOS, Swift 
+### 🌱 iOS, Swift, MVVM, RxSwift, RestAPI
 
----
-
-
-### MVVM, RxSwift, RestAPI
 
 ---
 
