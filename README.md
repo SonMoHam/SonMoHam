@@ -1,14 +1,7 @@
 ### Hi there 👋
 
-### 🌱 iOS, Swift, MVVM, RxSwift, RestAPI
+### 🌱 iOS, Swift, MVVM, RxSwift
 
-
-
-
-
-
-### 예정
-RxFlow, ReactorKit, DI, IOC, Coordinator, POP, CleanArchitecture
 
 [티스토리 블로그](https://sonmo.tistory.com/)
 
